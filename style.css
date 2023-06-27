@@ -1,0 +1,24 @@
+
+
+#but{
+    margin-left: 520px;
+    margin-top: 200px;
+    background-color: aliceblue;
+    border-radius: 20px;
+    padding: 5px;
+
+}
+
+#sk > h2{
+    margin-left: 340px;
+    padding: 10px;
+    border-radius: 5px;
+    font-weight: 100;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    background-color:black transparent;
+    width: 400px;
+    
+}
+
+
